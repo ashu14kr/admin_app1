@@ -38823,7 +38823,7 @@ s=q}while(true)switch(s){case 0:q=3
 m=A.mb(null)
 j=t.N
 s=6
-return A.Q(m.wN("https://cricketapp79.herokuapp.com/addblogs",A.an(["image",a,"title",b,"paragraph",c,"date",new A.c5(Date.now(),!1).i(0)],j,j),t.z),$async$wO)
+return A.Q(m.wN("http://43.204.103.153/addblogs",A.an(["image",a,"title",b,"paragraph",c,"date",new A.c5(Date.now(),!1).i(0)],j,j),t.z),$async$wO)
 case 6:l=e
 A.bK(B.P.iN(0,J.bv(l),null))
 n.al()
@@ -38847,7 +38847,7 @@ var $async$vw=A.D(function(b,c){if(b===1){p=c
 s=q}while(true)switch(s){case 0:q=3
 m=A.mb(null)
 s=6
-return A.Q(J.Gt(m,"https://cricketapp79.herokuapp.com/deleteBlog/"+a,t.z),$async$vw)
+return A.Q(J.Gt(m,"http://43.204.103.153/deleteBlog/"+a,t.z),$async$vw)
 case 6:l=c
 A.bK(B.P.iN(0,J.bv(l),null))
 n.al()
@@ -38867,7 +38867,7 @@ case 1:return A.E(p,r)}})
 return A.G($async$vw,r)},
 oA(){var s=0,r=A.H(t.Sh),q,p=2,o,n=[],m=this,l,k,j,i,h,g,f
 var $async$oA=A.D(function(a,b){if(a===1){o=b
-s=p}while(true)switch(s){case 0:g=A.hY("https://cricketapp79.herokuapp.com/getblogs")
+s=p}while(true)switch(s){case 0:g=A.hY("http://43.204.103.153/getblogs")
 p=4
 s=7
 return A.Q(A.W6(g),$async$oA)
@@ -38898,7 +38898,7 @@ A.OZ.prototype={}
 A.p7.prototype={
 oB(){var s=0,r=A.H(t.gW),q,p=2,o,n=[],m=this,l,k,j,i,h,g,f
 var $async$oB=A.D(function(a,b){if(a===1){o=b
-s=p}while(true)switch(s){case 0:g=A.hY("https://cricketapp79.herokuapp.com/getoffers")
+s=p}while(true)switch(s){case 0:g=A.hY("http://43.204.103.153/getoffers")
 p=4
 s=7
 return A.Q(A.W6(g),$async$oB)
@@ -38930,7 +38930,7 @@ s=q}while(true)switch(s){case 0:q=3
 m=A.mb(null)
 j=t.N
 s=6
-return A.Q(m.wN("https://cricketapp79.herokuapp.com/addoffers",A.an(["image",a,"Offertitle",b,"offer",c,"offerLink",d,"date",new A.c5(Date.now(),!1).i(0)],j,j),t.z),$async$wP)
+return A.Q(m.wN("http://43.204.103.153/addoffers",A.an(["image",a,"Offertitle",b,"offer",c,"offerLink",d,"date",new A.c5(Date.now(),!1).i(0)],j,j),t.z),$async$wP)
 case 6:l=f
 A.bK(B.P.iN(0,J.bv(l),null))
 n.al()
@@ -38954,7 +38954,7 @@ var $async$vx=A.D(function(b,c){if(b===1){p=c
 s=q}while(true)switch(s){case 0:q=3
 m=A.mb(null)
 s=6
-return A.Q(J.Gt(m,"https://cricketapp79.herokuapp.com/deleteOffer/"+a,t.z),$async$vx)
+return A.Q(J.Gt(m,"http://43.204.103.153/deleteOffer/"+a,t.z),$async$vx)
 case 6:l=c
 A.bK(B.P.iN(0,J.bv(l),null))
 n.al()
@@ -38977,7 +38977,7 @@ A.Rw.prototype={}
 A.po.prototype={
 oC(){var s=0,r=A.H(t.Ab),q,p=2,o,n=[],m=this,l,k,j,i,h,g,f
 var $async$oC=A.D(function(a,b){if(a===1){o=b
-s=p}while(true)switch(s){case 0:g=A.hY("https://cricketapp79.herokuapp.com/getpredictions")
+s=p}while(true)switch(s){case 0:g=A.hY("http://43.204.103.153/getpredictions")
 p=4
 s=7
 return A.Q(A.W6(g),$async$oC)
@@ -39009,7 +39009,7 @@ s=q}while(true)switch(s){case 0:q=3
 m=A.mb(null)
 j=t.N
 s=6
-return A.Q(m.wN("https://cricketapp79.herokuapp.com/addprediction",A.an(["matchname",a,"whetherreport",b,"pitchreport",c,"analysis",d,"keyplayers",e,"peoplepicks",f,"probable11",A.b([A.an(["team1",g,"team2",a0],j,j)],t.SN),"grandleagueimg",a1,"headtoheadteamimg",a2,"thumbnailimg",a3,"date",new A.c5(Date.now(),!1).i(0)],j,t.K),t.z),$async$wR)
+return A.Q(m.wN("http://43.204.103.153/addprediction",A.an(["matchname",a,"whetherreport",b,"pitchreport",c,"analysis",d,"keyplayers",e,"peoplepicks",f,"probable11",A.b([A.an(["team1",g,"team2",a0],j,j)],t.SN),"grandleagueimg",a1,"headtoheadteamimg",a2,"thumbnailimg",a3,"date",new A.c5(Date.now(),!1).i(0)],j,t.K),t.z),$async$wR)
 case 6:l=a5
 A.bK(B.P.iN(0,J.bv(l),null))
 n.al()
@@ -39033,7 +39033,7 @@ var $async$vy=A.D(function(b,c){if(b===1){p=c
 s=q}while(true)switch(s){case 0:q=3
 m=A.mb(null)
 s=6
-return A.Q(J.Gt(m,"https://cricketapp79.herokuapp.com/deletePrediction/"+a,t.z),$async$vy)
+return A.Q(J.Gt(m,"http://43.204.103.153/deletePrediction/"+a,t.z),$async$vy)
 case 6:l=c
 A.bK(B.P.iN(0,J.bv(l),null))
 n.al()
@@ -39056,7 +39056,7 @@ A.Sa.prototype={}
 A.q6.prototype={
 t6(){var s=0,r=A.H(t.Tf),q,p=2,o,n=[],m=this,l,k,j,i,h,g,f
 var $async$t6=A.D(function(a,b){if(a===1){o=b
-s=p}while(true)switch(s){case 0:g=A.hY("https://cricketapp79.herokuapp.com/getallusers")
+s=p}while(true)switch(s){case 0:g=A.hY("http://43.204.103.153/getallusers")
 p=4
 s=7
 return A.Q(A.W6(g),$async$t6)
@@ -39087,7 +39087,7 @@ var $async$vz=A.D(function(b,c){if(b===1){p=c
 s=q}while(true)switch(s){case 0:q=3
 m=A.mb(null)
 s=6
-return A.Q(J.Gt(m,"https://cricketapp79.herokuapp.com/deleteUser/"+a,t.z),$async$vz)
+return A.Q(J.Gt(m,"http://43.204.103.153/deleteUser/"+a,t.z),$async$vz)
 case 6:l=c
 A.bK(B.P.iN(0,J.bv(l),null))
 n.al()
@@ -39110,7 +39110,7 @@ A.UP.prototype={}
 A.q9.prototype={
 t7(){var s=0,r=A.H(t.ay),q,p=2,o,n=[],m=this,l,k,j,i,h,g,f
 var $async$t7=A.D(function(a,b){if(a===1){o=b
-s=p}while(true)switch(s){case 0:g=A.hY("https://cricketapp79.herokuapp.com/getvideos")
+s=p}while(true)switch(s){case 0:g=A.hY("http://43.204.103.153/getvideos")
 p=4
 s=7
 return A.Q(A.W6(g),$async$t7)
@@ -39142,7 +39142,7 @@ s=q}while(true)switch(s){case 0:q=3
 m=A.mb(null)
 j=t.N
 s=6
-return A.Q(m.wN("https://cricketapp79.herokuapp.com/addvideos",A.an(["videourl",a,"title",b,"date",new A.c5(Date.now(),!1).i(0)],j,j),t.z),$async$wQ)
+return A.Q(m.wN("http://43.204.103.153/addvideos",A.an(["videourl",a,"title",b,"date",new A.c5(Date.now(),!1).i(0)],j,j),t.z),$async$wQ)
 case 6:l=d
 A.bK(B.P.iN(0,J.bv(l),null))
 n.al()
@@ -39166,7 +39166,7 @@ var $async$vA=A.D(function(b,c){if(b===1){p=c
 s=q}while(true)switch(s){case 0:q=3
 m=A.mb(null)
 s=6
-return A.Q(J.Gt(m,"https://cricketapp79.herokuapp.com/deleteVideo/"+a,t.z),$async$vA)
+return A.Q(J.Gt(m,"http://43.204.103.153/deleteVideo/"+a,t.z),$async$vA)
 case 6:l=c
 A.bK(B.P.iN(0,J.bv(l),null))
 n.al()
